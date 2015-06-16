@@ -232,6 +232,9 @@ class BibtexParser {
                 this.entry();
             }
             this.match("}");
+            if (this.tryMatch(',')) {
+                this.match(',');
+            }
         }
     }
 }
