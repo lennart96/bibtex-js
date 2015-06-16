@@ -1,6 +1,6 @@
 # bibtex-js-es6
 
-Imported from http://code.google.com/p/bibtex-js/ by Hendik Muehe.
+Imported from http://code.google.com/p/bibtex-js/, originally written by Hendik Muehe.
 
 Searching for a bibtex parser, I found this library on google code. Since
 google code will shut down within a few months, I decided to export it to
